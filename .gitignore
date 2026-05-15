@@ -1,0 +1,5 @@
+# Ignore the audit report
+audit_report.csv
+
+# Ignore any local AWS credentials if you moved them (just in case)
+.aws/
